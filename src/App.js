@@ -5,11 +5,12 @@ import HookCounterOne from './components/HookCounterOne';
 import HookMouse from './components/HookMouse';
 import './App.css';
 import MouseContainer from './components/MouseContainer';
+import IntervalHookCounter from './components/IntervalHookCounter';
 
 function App() {
   return (
     <div>
-      <MouseContainer/>
+      <IntervalHookCounter/>
     </div>
 
    
