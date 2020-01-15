@@ -14,8 +14,6 @@ function HookCounterObject() {
         <h2>You firstName is {name.firstName}</h2>
         <h2>You lastName is {name.lastName}</h2>
         <h2>{JSON.stringify(name)}</h2>
-
-
       </form>
 
 
